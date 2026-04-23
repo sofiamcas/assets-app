@@ -1,0 +1,34 @@
+[
+  {
+    "nombre": "Kylian Mbappé",
+    "dorsal": 9,
+    "edad": 25,
+    "nacionalidad": "Francia",
+    "posicion": "Delantero",
+    "imagenUrl": "https://github.com/sofiamcas/assets-app/blob/main/Mbappe.png"
+  },
+  {
+    "nombre": "Rodrygo",
+    "dorsal": 11,
+    "edad": 23,
+    "nacionalidad": "Brasil",
+    "posicion": "Delantero",
+    "imagenUrl": "https://github.com/sofiamcas/assets-app/blob/main/Rodri.jpeg"
+  },
+  {
+    "nombre": "Federico Valverde",
+    "dorsal": 15,
+    "edad": 25,
+    "nacionalidad": "Uruguay",
+    "posicion": "Mediocampista",
+    "imagenUrl": "https://github.com/sofiamcas/assets-app/blob/main/Valverde.jpeg"
+  },
+  {
+    "nombre": "Jude Bellingham",
+    "dorsal": 5,
+    "edad": 21,
+    "nacionalidad": "Inglaterra",
+    "posicion": "Mediocampista",
+    "imagenUrl": "https://github.com/sofiamcas/assets-app/blob/main/Belli.png"
+  }
+]
