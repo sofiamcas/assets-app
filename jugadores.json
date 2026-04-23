@@ -5,7 +5,7 @@
     "edad": 25,
     "nacionalidad": "Francia",
     "posicion": "Delantero",
-    "imagenUrl": "https://github.com/sofiamcas/assets-app/blob/main/Mbappe.png"
+    "imagenUrl": "https://raw.githubusercontent.com/sofiamcas/assets-app/main/Mbappe.png"
   },
   {
     "nombre": "Rodrygo",
@@ -13,7 +13,7 @@
     "edad": 23,
     "nacionalidad": "Brasil",
     "posicion": "Delantero",
-    "imagenUrl": "https://github.com/sofiamcas/assets-app/blob/main/Rodri.jpeg"
+    "imagenUrl": "https://raw.githubusercontent.com/sofiamcas/assets-app/main/Rodri.jpeg"
   },
   {
     "nombre": "Federico Valverde",
@@ -21,7 +21,7 @@
     "edad": 25,
     "nacionalidad": "Uruguay",
     "posicion": "Mediocampista",
-    "imagenUrl": "https://github.com/sofiamcas/assets-app/blob/main/Valverde.jpeg"
+    "imagenUrl": "https://raw.githubusercontent.com/sofiamcas/assets-app/main/Valverde.jpeg"
   },
   {
     "nombre": "Jude Bellingham",
@@ -29,6 +29,6 @@
     "edad": 21,
     "nacionalidad": "Inglaterra",
     "posicion": "Mediocampista",
-    "imagenUrl": "https://github.com/sofiamcas/assets-app/blob/main/Belli.png"
+    "imagenUrl": "https://raw.githubusercontent.com/sofiamcas/assets-app/main/Belli.png"
   }
 ]
